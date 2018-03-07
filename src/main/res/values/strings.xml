@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="dialog_title_string">Do you wish to play again?</string>
+    <string name="dialog_text_string">Game Over</string>
+</resources>
